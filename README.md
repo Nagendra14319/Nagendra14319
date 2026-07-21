@@ -362,12 +362,11 @@ Designed and delivered projects end-to-end, from schema to UI
 <a href="https://github.com/Nagendra14319">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="mailto:youremail@example.com">
+<a href="mailto:nagendravarma1315@gmail.com">
   <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/>
-<sub>Replace <code>youremail@example.com</code> above with your actual email address.</sub>
 
 </div>
 
